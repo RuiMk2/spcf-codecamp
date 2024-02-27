@@ -1,0 +1,34 @@
+body{
+    background-color: #121212;
+    color: #ffffff;
+}
+a{
+    color: #ffffff;
+}
+/*to make the upper buttons have the same sizes*/
+.fixedsize {
+    width: 120px !important;
+}
+img, figure{
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+}
+  /*used to edit the vs message*/
+.versus{
+    font-size: 70px;
+}
+.icon img{
+    height: 100px;
+    width: 100px;
+    border: 5px solid #ffffff;
+}
+.gallery img{
+    height: 250px;
+    width: 250px;
+    border: 5px solid #808080;
+}
+
+.socials img{
+    border: 0px #ffffff;
+}
